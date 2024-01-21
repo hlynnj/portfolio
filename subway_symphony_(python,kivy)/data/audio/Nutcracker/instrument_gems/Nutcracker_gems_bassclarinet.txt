@@ -1,0 +1,7 @@
+21.884807256	0;0;bassclarinet
+22.262857143	0;0;bassclarinet
+22.661587302	0;0;bassclarinet
+23.050158730	0;0;bassclarinet
+23.428571429	0;0;bassclarinet
+23.823673469	0;0;bassclarinet
+24.208979592	0;0;bassclarinet

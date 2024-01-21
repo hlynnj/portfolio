@@ -1,0 +1,9 @@
+3.132879819	0;2;clarinet
+3.539229025	0;2;clarinet
+3.921269841	0;2;clarinet
+4.322539683	0;2;clarinet
+4.700952381	0;2;clarinet
+5.077551020	0;2;clarinet
+5.466122449	0;2;clarinet
+5.673650794	0;2;clarinet
+5.869795918	0;2;clarinet

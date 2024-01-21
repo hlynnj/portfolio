@@ -1,0 +1,9 @@
+9.385941043	0;0;englishhorn
+9.767619048	0;0;englishhorn
+10.184126984	0;0;englishhorn
+10.580317460	0;0;englishhorn
+10.956190476	0;0;englishhorn
+11.342222222	0;0;englishhorn
+11.728253968	0;0;englishhorn
+11.911111111	0;0;englishhorn
+12.107800454	0;0;englishhorn

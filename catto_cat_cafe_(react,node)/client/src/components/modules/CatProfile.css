@@ -1,0 +1,44 @@
+.catalog-profile-content-container {
+  align-content: flex-start;
+  background-color: var(--background-brown-highlight);
+  border-radius: 10px;
+  padding: 15px;
+  background-clip: padding-box;
+  column-gap: 20px;
+  height: 610px;
+  overflow-y: auto;
+}
+
+.catalog-profile-top-content-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.catalog-profile-image {
+  padding: 10px;
+}
+
+.catalog-profile-name {
+  font-size: 75px;
+  margin: 10px 0px 4px 10px;
+  font-family: "Fredoka One";
+}
+
+.catalog-profile-top-text-element {
+  font-size: 35px;
+  margin-left: 10px;
+  font-family: "Londrina Solid";
+}
+
+.catalog-profile-bottom-content-container {
+  margin: 20px;
+}
+
+.catalog-profile-bottom-text-element {
+  font-size: 30px;
+  font-family: "Londrina Solid";
+}
+
+.personality {
+  margin-top: 20px;
+}

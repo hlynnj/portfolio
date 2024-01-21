@@ -1,0 +1,28 @@
+.link {
+  height: 30px;
+  width: 200px;
+  background-color: var(--background-brown);
+  border-width: 5px;
+  border-style: outset;
+  border-radius: 8px;
+  border-color: var(--background-brown-highlight);
+  padding: 10px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link-text {
+  font-size: 40px;
+  font-weight: 400;
+  font-family: "Londrina Solid";
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+
+.link:hover {
+  border-style: inset;
+  background-color: rgb(204, 162, 127);
+  color: rgb(230, 230, 230);
+}

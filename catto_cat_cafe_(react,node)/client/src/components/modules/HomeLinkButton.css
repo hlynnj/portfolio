@@ -1,0 +1,43 @@
+.box {
+  height: 550px;
+  width: 380px;
+  background-color: rgb(250, 240, 233);
+  border-radius: 15px;
+  padding: 10px;
+  border-style: none;
+  border-width: 12px;
+  border-color: rgb(233, 228, 225);
+}
+
+.explanation {
+  font-size: 30px;
+  color: var(--background-brown);
+  font-family: "Londrina Solid";
+}
+
+.topMargin {
+  margin-top: 7%;
+  position: relative;
+}
+
+.image {
+  border-style: ridge;
+  border-color: rgb(155, 111, 83);
+  border-width: 20px;
+  outline: brown 72px;
+  position: relative;
+  background-clip: padding-box;
+  padding: 20px;
+  background-color: var(--background-brown);
+}
+
+.image-container {
+  border-color: brown;
+  border-width: 200px;
+  content: "";
+  position: relative;
+}
+
+.image-container + .button {
+  margin-top: 30px;
+}

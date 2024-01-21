@@ -1,0 +1,41 @@
+.load-header {
+  margin-left: 20px;
+}
+.load-list-border1 {
+  border-color: dimgray;
+}
+
+.load-header-name {
+  margin: 0px 80px 10px 0px;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 100px;
+  color: var(--offwhite);
+  font-family: "Titan One", sans-serif;
+}
+
+.load-list-container {
+  background-color: var(--offwhite);
+  border-color: brown, brown, yellow, yellow;
+  border-style: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  flex-direction: column;
+  border-radius: 15px;
+  margin: 0px 80px;
+  padding: 4px;
+  gap: 10px;
+  height: 80vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+body {
+  background-color: var(--background-brown);
+  background-size: 100%;
+}
+
+.load-header > .load-backbutton {
+  margin-top: 45px;
+  float: left;
+}

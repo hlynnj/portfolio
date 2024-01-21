@@ -1,0 +1,22 @@
+/** TODO: figure out flex */
+
+.home-links-container {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.header-name-withoutback {
+  margin-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 100px;
+  font-family: "Titan One";
+  color: var(--offwhite);
+}
+
+.logout-button {
+  position: fixed;
+  top: 50px;
+  right: 50px;
+}

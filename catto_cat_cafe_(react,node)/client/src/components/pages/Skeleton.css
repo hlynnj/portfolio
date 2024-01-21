@@ -1,0 +1,30 @@
+.skeleton-content {
+  text-align: center;
+}
+
+.skeleton-card {
+  width: 40%;
+  height: 20%;
+}
+
+.skeleton-header {
+  margin-top: 60px;
+  font-size: 75px;
+  font-weight: 400;
+  font-family: "Londrina Solid";
+  color: var(--offwhite);
+}
+
+.skeleton-text {
+  position: relative;
+  font-size: 50px;
+  font-weight: 400;
+  font-family: "Londrina Solid";
+  color: var(--offwhite);
+}
+
+.skeleton-button {
+  position: absolute;
+  margin-left: 42%;
+  margin-right: auto;
+}

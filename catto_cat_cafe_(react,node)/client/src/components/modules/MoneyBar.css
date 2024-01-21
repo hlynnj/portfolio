@@ -1,0 +1,24 @@
+.money-picture {
+  background-image: "https://media.discordapp.net/attachments/696173220453417030/932864945874411590/IMG_0214.png?width=779&height=779";
+  height: 30px;
+  width: 30px;
+  border-radius: 10%;
+}
+
+.money-barContainer {
+  height: 45px;
+  width: 400px;
+  border-radius: 15px;
+  background-color: white;
+  overflow: hidden;
+}
+
+.moneyBarText {
+  position: absolute;
+  margin-top: 2px;
+  display: inline;
+  text-align: right;
+  font-size: 30px;
+  font-family: "Londrina Solid";
+  font-weight: 400;
+}

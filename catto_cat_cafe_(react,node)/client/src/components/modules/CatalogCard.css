@@ -1,0 +1,21 @@
+.catalog-card-container {
+  background-color: var(--background-brown);
+  border: solid var(--background-brown-highlight);
+  border-width: 4px 8px;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 40px;
+  font-family: "Fredoka One";
+}
+
+.catalog-card-image {
+  height: 100px;
+  width: 100px;
+  margin: 0px 48px 4px 32px;
+}
+
+.catalog-card-container:hover {
+  background-color: var(--background-brown-highlight);
+}

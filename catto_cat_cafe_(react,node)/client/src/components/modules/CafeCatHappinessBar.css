@@ -1,0 +1,7 @@
+import .cat-happiness-bar-picture {
+  height: var(--xl);
+}
+
+.cat-happiness-bar-pictureContainer {
+  height: var(--xl);
+}

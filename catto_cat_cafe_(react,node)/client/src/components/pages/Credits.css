@@ -1,0 +1,67 @@
+.credits-header {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 100px;
+  font-family: "Titan One";
+  color: var(--offwhite);
+}
+
+.credits-sub-header {
+  margin-bottom: 10px;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Titan One";
+  color: var(--offwhite);
+}
+
+.credits-content-container {
+  margin: 40px 80px;
+  border-radius: 12px;
+  border-width: 60px;
+  border-color: var(--offwhite);
+  border-style: solid;
+  background-clip: padding-box;
+  padding: 60px;
+  background-color: var(--background-brown);
+}
+
+.credits-content-text {
+  font-family: "Londrina Solid";
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.credits-home {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.credits-title-card {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.credits-link-text {
+  height: 70px;
+  width: 300px;
+  background-color: rgb(214, 176, 142);
+  border-width: 12px;
+  border-style: outset;
+  border-radius: 8px;
+  border-color: rgb(235, 213, 189);
+  padding: 10px;
+
+  font-size: 70px;
+  font-weight: 400;
+  font-family: "Londrina Solid";
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+
+.credits-link-text:hover {
+  border-style: inset;
+  background-color: rgb(204, 162, 127);
+  color: rgb(230, 230, 230);
+}
